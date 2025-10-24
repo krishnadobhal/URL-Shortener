@@ -4,7 +4,8 @@ A high-performance, distributed URL shortening service implemented as a collecti
 
 ## System Design
 
-<img width="1585" height="1493" alt="Untitled-2025-10-13-1211" src="https://github.com/user-attachments/assets/348697f0-90ac-451a-80e6-415456769285" />
+<img width="1585" height="1350" alt="Untitled-2025-10-13-1211 (1)" src="https://github.com/user-attachments/assets/8434b22d-7256-4fa3-845e-9fefab114f9c" />
+
 
 ---
 
