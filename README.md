@@ -2,6 +2,10 @@
 
 A high-performance, distributed URL shortening service implemented as a collection of independent microservices. The platform is designed for **high traffic**, **fast redirection**, and **real-time analytics**.
 
+## System Design
+
+<img width="1585" height="1493" alt="Untitled-2025-10-13-1211" src="https://github.com/user-attachments/assets/348697f0-90ac-451a-80e6-415456769285" />
+
 ---
 
 ## Key Features
